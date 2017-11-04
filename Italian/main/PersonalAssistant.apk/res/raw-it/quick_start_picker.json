@@ -2,35 +2,13 @@
   "configVersion": "10",
   "minAppVersion": "393",
   "default": [
-    "10",
-    "52"
+    "30",
+    "130"
   ],
   "data": [
     {
-      "title": "scan_parent",
-      "array": [
-       
-        {
-          "name": "scan_code",
-          "appName": "scan_app",
-          "drawableName": "scanner_code",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "10"
-        }
-      ]
-    },
-    {
       "title": "study_parent",
       "array": [
-        {
-          "name": "calc_num",
-          "appName": "calc_parent",
-          "drawableName": "calculator_num",
-          "packageName": "com.miui.calculator",
-          "className": ".wordfigure.WordFigureActivity",
-          "id": "52"
-        },
         {
           "name": "record_name",
           "appName": "record_parent",
@@ -49,7 +27,6 @@
         }
       ]
     },
-
     {
 
       "title": "function_tools_parent",
