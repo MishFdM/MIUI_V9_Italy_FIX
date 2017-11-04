@@ -2,14 +2,8 @@
   "configVersion": "10",
   "minAppVersion": "393",
   "default": [
-    "101",
-    "60",
-    "65",
-    "120",
-    "50",
-    "12",
-    "30",
-    "131"
+    "10",
+    "52"
   ],
   "data": [
     {
@@ -23,14 +17,6 @@
           "packageName": "com.xiaomi.scanner",
           "className": ".app.ScanActivity",
           "id": "10"
-        },
-
-        {
-          "name": "pay_card_pack",
-          "appName": "mi_wallet",
-          "drawableName": "pay_card_pack",
-          "packageName": "com.miui.tsmclient",
-          "id": "121"
         }
       ]
     },
@@ -44,22 +30,6 @@
           "packageName": "com.miui.calculator",
           "className": ".wordfigure.WordFigureActivity",
           "id": "52"
-        },
-        {
-          "name": "calc_currency",
-          "appName": "calc_parent",
-          "drawableName": "calculator_currency",
-          "packageName": "com.miui.calculator",
-          "className": ".convert.CurrencyActivity",
-          "id": "51"
-        },
-        {
-          "name": "calc_name",
-          "appName": "calc_parent",
-          "drawableName": "calculator_scientific",
-          "packageName": "com.miui.calculator",
-          "className": ".cal.AllInOneCalculatorActivity",
-          "id": "50"
         },
         {
           "name": "record_name",
@@ -76,57 +46,10 @@
           "packageName": "com.android.calendar",
           "className": ".event.EditEventActivity",
           "id": "40"
-        },
-        {
-          "name": "scan_trans",
-          "appName": "scan_app",
-          "drawableName": "scanner_translate",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "12"
-        },
-        {
-          "name": "scan_card",
-          "appName": "scan_app",
-          "drawableName": "scanner_card",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "14"
-        },
-        {
-          "name": "scan_exercise",
-          "appName": "scan_app",
-          "drawableName": "scanner_exercise",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "13"
-        },
-        {
-          "name": "scan_doc",
-          "appName": "scan_app",
-          "drawableName": "scanner_document",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "15"
         }
       ]
     },
 
-    {
-      "title": "function_video_music_title",
-      "array": [
- 
-
-        {
-          "name": "function_music_recognize",
-          "appName": "function_music_title",
-          "drawableName": "function_music_recognize",
-          "packageName": "com.miui.player",
-          "className": ".ui.MusicBrowserActivity",
-          "id": "210"
-        }
-      ]
-    },
     {
 
       "title": "function_tools_parent",
