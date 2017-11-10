@@ -11,62 +11,7 @@
     "132",
     "20"
   ],
-  "data": [
-    {
-      "title": "scan_parent",
-      "array": [
-        {
-          "name": "scan_code",
-          "appName": "scan_app",
-          "drawableName": "scanner_code",
-          "packageName": "com.xiaomi.scanner",
-          "className": ".app.ScanActivity",
-          "id": "10"
-        }
-      ]
-    },
-    {
-      "title": "study_parent",
-      "array": [
-        {
-          "name": "calc_name",
-          "appName": "calc_parent",
-          "drawableName": "calculator_scientific",
-          "packageName": "com.miui.calculator",
-          "className": ".cal.AllInOneCalculatorActivity",
-          "id": "50"
-        },
-        {
-          "name": "record_name",
-          "appName": "record_parent",
-          "drawableName": "recorder_start",
-          "packageName": "com.android.soundrecorder",
-          "className": ".SoundRecorder",
-          "id": "30"
-        },
-        {
-          "name": "calendar_name",
-          "appName": "calendar_parent",
-          "drawableName": "calendar_new",
-          "packageName": "com.android.calendar",
-          "className": ".event.EditEventActivity",
-          "id": "40"
-        }
-      ]
-    },
-    {
-      "title": "function_video_music_title",
-      "array": [
-        {
-          "name": "function_music_recognize",
-          "appName": "function_music_title",
-          "drawableName": "function_music_recognize",
-          "packageName": "com.miui.player",
-          "className": ".ui.MusicBrowserActivity",
-          "id": "210"
-        }
-      ]
-    },  
+  "data": [   
     {
       "title": "function_tools_parent",
       "array": [
