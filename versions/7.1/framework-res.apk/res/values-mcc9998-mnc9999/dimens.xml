@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbnail_height">192.0dip</dimen>
+    <dimen name="thumbnail_width">192.0dip</dimen>
+    <dimen name="notification_content_sub_margin_top">5.0dip</dimen>
+    <dimen name="notification_children_container_top_padding">-7.0dip</dimen>
+    <dimen name="notification_radius">2.0dip</dimen>
+</resources>
